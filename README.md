@@ -47,15 +47,6 @@ The dataset includes attendance, study hours, previous scores, parental involvem
 
 Linear Regression achieved better performance than the tested Random Forest configuration.
 
-## Visualizations
-
-### Actual vs Predicted Exam Scores
-
-![Actual vs Predicted](images/actual_vs_predicted.png)
-
-### Residual Analysis
-
-![Residual Plot](images/residual_plot.png)
 
 ## Key Findings
 
@@ -96,6 +87,4 @@ The CSV must contain the original 19 input columns with compatible values.
 
 [Student Performance Factors Dataset — Kaggle](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)
 
-## Author
 
-[Your Name] — [LinkedIn Profile]
